@@ -1,0 +1,45 @@
+Token Standards in Blockchain.
+
+Token standards acts as the blueprints for creating and managing tokens within a specific 
+ecosystem. They define a set of rules and protocols that dictate how tokens are created, 
+transferred, interacted with, and behave within the network. This ensures consistency, 
+compatibility, and ease of integration across different applications and platforms.
+
+Some of the most popular token standards:
+
+1. Ethereum Token Standards (ERC):
+
+- ERC-20: ERC-20 governs fungible tokens, meaning each token is identical and interchangeable. 
+It's the most widely used standard, enabling seamless integration with exchanges, wallets, 
+and decentralized applications (dApps) within the Ethereum ecosystem.
+
+- ERC-721: This standard defines non-fungible tokens (NFTs), each unique and irreplaceable. 
+It has revolutionized digital ownership, paving the way for collectibles, art, 
+and in-game items on the blockchain.
+
+- ERC-777: Building on ERC-20, ERC-777 introduces additional features like operator functionality 
+and improved security with "hooks" for enhanced control over transfers.
+
+- ERC-1155: A multi-token standard, ERC-1155 allows developers to bundle various fungible and 
+non-fungible tokens within a single smart contract, increasing efficiency and reducing gas costs.
+
+
+2. Binance Smart Chain Standards (BEP):
+
+- BEP-20: The BEP-20 standard is directly analogous to ERC-20, enabling fungible token creation and 
+interaction on the Binance Smart Chain. It offers faster transaction speeds and lower fees 
+compared to Ethereum.
+
+-BEP-721:** This standard mirrors ERC-721 for NFTs on the Binance Smart Chain.
+
+
+3. Other notable standards:
+
+- Tezos FA2: A versatile standard on the Tezos blockchain, supporting both fungible and 
+non-fungible tokens with enhanced security and upgradeability features.
+
+- Hyperledger Fabric Tokenization Services: Designed for enterprise blockchains, this standard 
+facilitates the issuance and management of tokens with customizable permissions and workflows.
+
+
+
